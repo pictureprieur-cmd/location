@@ -1,0 +1,307 @@
+[2025-08-12 13:19:25] --------------------------------------------------------------------------
+[2025-08-12 13:19:25] Price day : 80
+[2025-08-12 13:19:25] Price half : 60
+[2025-08-12 13:19:25] Proce weekend : 250
+[2025-08-12 13:19:25] Montant total : 160
+[2025-08-12 13:19:26] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-27","end_date":"2025-08-28","time-start":"matin","time-end":"soir"}
+[2025-08-12 13:30:54] --------------------------------------------------------------------------
+[2025-08-12 13:30:54] Price day : 80
+[2025-08-12 13:30:54] Price half : 60
+[2025-08-12 13:30:54] Proce weekend : 250
+[2025-08-12 13:30:54] Montant total : 220
+[2025-08-12 13:30:54] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-20","time-start":"matin","time-end":"midi"}
+[2025-08-12 13:30:54] woocommerce_add_to_cart: cart_item_key=c717b4fec2aa189ca3e3340ca72ee235 unique_hash=4b1a9d6b4b0da7e9a6c50b871d9c0854
+[2025-08-12 13:30:54] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 13:51:15] --------------------------------------------------------------------------
+[2025-08-12 13:51:15] Price day : 80
+[2025-08-12 13:51:15] Price half : 60
+[2025-08-12 13:51:15] Proce weekend : 250
+[2025-08-12 13:51:15] Montant total : 80
+[2025-08-12 13:51:15] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 13:51:15] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 13:51:15] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:22:04] --------------------------------------------------------------------------
+[2025-08-12 14:22:04] Price day : 80
+[2025-08-12 14:22:04] Price half : 60
+[2025-08-12 14:22:04] Proce weekend : 250
+[2025-08-12 14:22:04] Montant total : 80
+[2025-08-12 14:22:04] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 14:22:04] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 14:22:04] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:22:34] woocommerce_remove_cart_item: key=c717b4fec2aa189ca3e3340ca72ee235 user=1
+[2025-08-12 14:22:34] woocommerce_remove_cart_item: rows deleted => 1
+[2025-08-12 14:22:34] woocommerce_cart_item_removed: key=c717b4fec2aa189ca3e3340ca72ee235 user=1
+[2025-08-12 14:22:34] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 14:50:21] --------------------------------------------------------------------------
+[2025-08-12 14:50:21] Price day : 80
+[2025-08-12 14:50:21] Price half : 60
+[2025-08-12 14:50:21] Proce weekend : 250
+[2025-08-12 14:50:21] Montant total : 140
+[2025-08-12 14:50:22] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-19","time-start":"matin","time-end":"midi"}
+[2025-08-12 14:50:22] woocommerce_add_to_cart: cart_item_key=677579b513a5717f6dc2b250abc38090 unique_hash=f15bc0d31b7593e13c2f2d9c4ee20683
+[2025-08-12 14:50:22] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:54:42] woocommerce_remove_cart_item: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-12 14:54:42] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-12 14:54:42] woocommerce_cart_item_removed: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-12 14:54:42] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 14:54:45] woocommerce_remove_cart_item: key=677579b513a5717f6dc2b250abc38090 user=1
+[2025-08-12 14:54:45] woocommerce_remove_cart_item: rows deleted => 1
+[2025-08-12 14:54:45] woocommerce_cart_item_removed: key=677579b513a5717f6dc2b250abc38090 user=1
+[2025-08-12 14:54:45] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 14:55:13] --------------------------------------------------------------------------
+[2025-08-12 14:55:13] Price day : 80
+[2025-08-12 14:55:13] Price half : 60
+[2025-08-12 14:55:13] Proce weekend : 250
+[2025-08-12 14:55:13] Montant total : 140
+[2025-08-12 14:55:14] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-19","time-start":"matin","time-end":"midi"}
+[2025-08-12 14:55:14] woocommerce_add_to_cart: cart_item_key=677579b513a5717f6dc2b250abc38090 unique_hash=f15bc0d31b7593e13c2f2d9c4ee20683
+[2025-08-12 14:55:14] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:55:26] --------------------------------------------------------------------------
+[2025-08-12 14:55:26] Price day : 80
+[2025-08-12 14:55:26] Price half : 60
+[2025-08-12 14:55:26] Proce weekend : 250
+[2025-08-12 14:55:26] Montant total : 80
+[2025-08-12 14:55:26] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 14:55:26] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 14:55:26] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:55:39] --------------------------------------------------------------------------
+[2025-08-12 14:55:39] Price day : 80
+[2025-08-12 14:55:39] Price half : 60
+[2025-08-12 14:55:39] Proce weekend : 250
+[2025-08-12 14:55:39] Montant total : 200
+[2025-08-12 14:55:40] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-28","end_date":"2025-08-30","time-start":"soir","time-end":"midi"}
+[2025-08-12 14:55:40] woocommerce_add_to_cart: cart_item_key=58b6e29d9cb8986a04a3ea220da920f5 unique_hash=8d432a5e3ccac5354c4a9a8b0a81fa32
+[2025-08-12 14:55:40] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 14:56:35] woocommerce_remove_cart_item: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-12 14:56:35] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-12 14:56:35] woocommerce_cart_item_removed: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-12 14:56:35] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 14:56:35] woocommerce_cart_loaded_from_session: removed keys => ["f0a998e58876cb6a433734b7c611e047"]
+[2025-08-12 15:34:46] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 15:34:46] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 15:43:27] --------------------------------------------------------------------------
+[2025-08-12 15:43:27] Price day : 80
+[2025-08-12 15:43:27] Price half : 60
+[2025-08-12 15:43:27] Proce weekend : 250
+[2025-08-12 15:43:27] Montant total : 220
+[2025-08-12 15:43:28] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-20","time-start":"matin","time-end":"midi"}
+[2025-08-12 15:43:28] woocommerce_add_to_cart: cart_item_key=c717b4fec2aa189ca3e3340ca72ee235 unique_hash=4b1a9d6b4b0da7e9a6c50b871d9c0854
+[2025-08-12 15:43:28] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 15:43:38] --------------------------------------------------------------------------
+[2025-08-12 15:43:38] Price day : 80
+[2025-08-12 15:43:38] Price half : 60
+[2025-08-12 15:43:38] Proce weekend : 250
+[2025-08-12 15:43:38] Montant total : 80
+[2025-08-12 15:43:39] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 15:43:39] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 15:43:39] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 15:44:11] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 15:44:11] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 15:51:55] --------------------------------------------------------------------------
+[2025-08-12 15:51:55] Price day : 80
+[2025-08-12 15:51:55] Price half : 60
+[2025-08-12 15:51:55] Proce weekend : 250
+[2025-08-12 15:51:55] Montant total : 140
+[2025-08-12 15:51:56] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-19","time-start":"matin","time-end":"midi"}
+[2025-08-12 15:51:56] woocommerce_add_to_cart: cart_item_key=677579b513a5717f6dc2b250abc38090 unique_hash=f15bc0d31b7593e13c2f2d9c4ee20683
+[2025-08-12 15:51:56] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 15:52:07] --------------------------------------------------------------------------
+[2025-08-12 15:52:07] Price day : 80
+[2025-08-12 15:52:07] Price half : 60
+[2025-08-12 15:52:07] Proce weekend : 250
+[2025-08-12 15:52:07] Montant total : 120
+[2025-08-12 15:52:08] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-20","end_date":"2025-08-21","time-start":"soir","time-end":"midi"}
+[2025-08-12 15:52:08] woocommerce_add_to_cart: cart_item_key=115511cbd485ffca8579d4a385151960 unique_hash=9446405b668cd716dfe607a1d0fbb351
+[2025-08-12 15:52:08] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 15:52:32] --------------------------------------------------------------------------
+[2025-08-12 15:52:32] Price day : 80
+[2025-08-12 15:52:32] Price half : 60
+[2025-08-12 15:52:32] Proce weekend : 250
+[2025-08-12 15:52:32] Montant total : 250
+[2025-08-12 15:52:33] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-30","end_date":"2025-08-31","time-start":"matin","time-end":"soir"}
+[2025-08-12 15:52:33] woocommerce_add_to_cart: cart_item_key=a6498875c9a886a10881fb6fccf45732 unique_hash=1122fc46a04e8bc78bbfb54c90364e6e
+[2025-08-12 15:52:33] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:00:13] woocommerce_remove_cart_item: key=677579b513a5717f6dc2b250abc38090 user=1
+[2025-08-12 16:00:13] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-12 16:00:13] woocommerce_cart_item_removed: key=677579b513a5717f6dc2b250abc38090 user=1
+[2025-08-12 16:00:13] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 16:00:14] woocommerce_remove_cart_item: key=115511cbd485ffca8579d4a385151960 user=1
+[2025-08-12 16:00:14] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-12 16:00:14] woocommerce_cart_item_removed: key=115511cbd485ffca8579d4a385151960 user=1
+[2025-08-12 16:00:14] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 16:00:15] woocommerce_remove_cart_item: key=a6498875c9a886a10881fb6fccf45732 user=1
+[2025-08-12 16:00:15] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-12 16:00:15] woocommerce_cart_item_removed: key=a6498875c9a886a10881fb6fccf45732 user=1
+[2025-08-12 16:00:15] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-12 16:00:58] --------------------------------------------------------------------------
+[2025-08-12 16:00:58] Price day : 80
+[2025-08-12 16:00:58] Price half : 60
+[2025-08-12 16:00:58] Proce weekend : 250
+[2025-08-12 16:00:58] Montant total : 220
+[2025-08-12 16:00:59] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-20","time-start":"matin","time-end":"midi"}
+[2025-08-12 16:00:59] woocommerce_add_to_cart: cart_item_key=c717b4fec2aa189ca3e3340ca72ee235 unique_hash=4b1a9d6b4b0da7e9a6c50b871d9c0854
+[2025-08-12 16:00:59] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:01:11] --------------------------------------------------------------------------
+[2025-08-12 16:01:11] Price day : 80
+[2025-08-12 16:01:11] Price half : 60
+[2025-08-12 16:01:11] Proce weekend : 250
+[2025-08-12 16:01:11] Montant total : 80
+[2025-08-12 16:01:11] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:01:11] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 16:01:11] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:01:22] --------------------------------------------------------------------------
+[2025-08-12 16:01:22] Price day : 80
+[2025-08-12 16:01:22] Price half : 60
+[2025-08-12 16:01:22] Proce weekend : 250
+[2025-08-12 16:01:22] Montant total : 250
+[2025-08-12 16:01:22] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-30","end_date":"2025-08-31","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:01:22] woocommerce_add_to_cart: cart_item_key=a6498875c9a886a10881fb6fccf45732 unique_hash=1122fc46a04e8bc78bbfb54c90364e6e
+[2025-08-12 16:01:22] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:01:50] --------------------------------------------------------------------------
+[2025-08-12 16:01:50] Price day : 80
+[2025-08-12 16:01:50] Price half : 60
+[2025-08-12 16:01:50] Proce weekend : 250
+[2025-08-12 16:01:50] Montant total : 240
+[2025-08-12 16:01:51] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-20","end_date":"2025-08-22","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:01:51] woocommerce_add_to_cart: cart_item_key=ac2e985d47d5891f9a2f978195882de7 unique_hash=d8aad61ded14e03ee95f1f730788fc3d
+[2025-08-12 16:01:51] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:03:18] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:03:18] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:03:18] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:03:18] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:12:03] --------------------------------------------------------------------------
+[2025-08-12 16:12:03] Price day : 80
+[2025-08-12 16:12:03] Price half : 60
+[2025-08-12 16:12:03] Proce weekend : 250
+[2025-08-12 16:12:03] Montant total : 220
+[2025-08-12 16:12:03] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-18","end_date":"2025-08-20","time-start":"matin","time-end":"midi"}
+[2025-08-12 16:12:03] woocommerce_add_to_cart: cart_item_key=c717b4fec2aa189ca3e3340ca72ee235 unique_hash=4b1a9d6b4b0da7e9a6c50b871d9c0854
+[2025-08-12 16:12:03] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:12:15] --------------------------------------------------------------------------
+[2025-08-12 16:12:15] Price day : 80
+[2025-08-12 16:12:15] Price half : 60
+[2025-08-12 16:12:15] Proce weekend : 250
+[2025-08-12 16:12:15] Montant total : 80
+[2025-08-12 16:12:15] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:12:15] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-12 16:12:15] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:12:25] --------------------------------------------------------------------------
+[2025-08-12 16:12:25] Price day : 80
+[2025-08-12 16:12:25] Price half : 60
+[2025-08-12 16:12:25] Proce weekend : 250
+[2025-08-12 16:12:25] Montant total : 250
+[2025-08-12 16:12:26] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-30","end_date":"2025-08-31","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:12:26] woocommerce_add_to_cart: cart_item_key=a6498875c9a886a10881fb6fccf45732 unique_hash=1122fc46a04e8bc78bbfb54c90364e6e
+[2025-08-12 16:12:26] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:12:42] --------------------------------------------------------------------------
+[2025-08-12 16:12:42] Price day : 80
+[2025-08-12 16:12:42] Price half : 60
+[2025-08-12 16:12:42] Proce weekend : 250
+[2025-08-12 16:12:42] Montant total : 280
+[2025-08-12 16:12:42] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-25","end_date":"2025-08-28","time-start":"soir","time-end":"midi"}
+[2025-08-12 16:12:42] woocommerce_add_to_cart: cart_item_key=4540841738c52904041065db645b8210 unique_hash=3096b74cc715ebe4a5830f125827de07
+[2025-08-12 16:12:42] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:12:55] --------------------------------------------------------------------------
+[2025-08-12 16:12:55] Price day : 80
+[2025-08-12 16:12:55] Price half : 60
+[2025-08-12 16:12:55] Proce weekend : 250
+[2025-08-12 16:12:55] Montant total : 160
+[2025-08-12 16:12:55] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-20","end_date":"2025-08-21","time-start":"matin","time-end":"soir"}
+[2025-08-12 16:12:55] woocommerce_add_to_cart: cart_item_key=6bf62eacb677fcd173b74444e79e78da unique_hash=04bdcdedc9e3afb717452061af479c15
+[2025-08-12 16:12:55] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:14:16] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:14:16] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:14:16] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:14:16] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:14:16] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-12 16:16:17] --------------------------------------------------------------------------
+[2025-08-12 16:16:17] Price day : 80
+[2025-08-12 16:16:17] Price half : 60
+[2025-08-12 16:16:17] Proce weekend : 250
+[2025-08-12 16:16:17] Montant total : 140
+[2025-08-12 16:16:17] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-19","end_date":"2025-08-20","time-start":"matin","time-end":"midi"}
+[2025-08-12 16:16:17] woocommerce_add_to_cart: cart_item_key=17be63d00c707a3f0e83083720a799dd unique_hash=06b0e5480de7cc8d23a8edef2bab95af
+[2025-08-12 16:16:17] woocommerce_add_to_cart: rows updated => 1
+[2025-08-12 16:24:06] --------------------------------------------------------------------------
+[2025-08-12 16:24:06] Price day : 80
+[2025-08-12 16:24:06] Price half : 60
+[2025-08-12 16:24:06] Proce weekend : 250
+[2025-08-12 16:24:06] Montant total : 140
+[2025-08-12 16:24:06] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-20","end_date":"2025-08-21","time-start":"matin","time-end":"midi"}
+[2025-08-12 16:24:06] woocommerce_add_to_cart: cart_item_key=8609b83a5e585de87d7726b725246f4c unique_hash=470df38765acc83f65e8657d974a706e
+[2025-08-12 16:24:06] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 07:35:18] --------------------------------------------------------------------------
+[2025-08-13 07:35:18] Price day : 80
+[2025-08-13 07:35:18] Price half : 60
+[2025-08-13 07:35:18] Proce weekend : 250
+[2025-08-13 07:35:18] Montant total : 80
+[2025-08-13 07:35:18] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-26","end_date":"2025-08-26","time-start":"matin","time-end":"soir"}
+[2025-08-13 07:35:18] woocommerce_add_to_cart: cart_item_key=f0a998e58876cb6a433734b7c611e047 unique_hash=4b7f5f98df83d7b77d45d40a0a57f525
+[2025-08-13 07:35:18] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 08:59:11] --------------------------------------------------------------------------
+[2025-08-13 08:59:11] Price day : 80
+[2025-08-13 08:59:11] Price half : 60
+[2025-08-13 08:59:11] Proce weekend : 250
+[2025-08-13 08:59:11] Montant total : 220
+[2025-08-13 08:59:11] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-27","end_date":"2025-08-29","time-start":"matin","time-end":"midi"}
+[2025-08-13 08:59:11] woocommerce_add_to_cart: cart_item_key=b0f98837ddc7e952d1880989a42cd16a unique_hash=74138ea6ee40fdcfcae09a1b8789dfea
+[2025-08-13 08:59:11] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 09:18:06] --------------------------------------------------------------------------
+[2025-08-13 09:18:06] Price day : 80
+[2025-08-13 09:18:06] Price half : 60
+[2025-08-13 09:18:06] Proce weekend : 250
+[2025-08-13 09:18:06] Montant total : 80
+[2025-08-13 09:18:06] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-21","end_date":"2025-08-21","time-start":"matin","time-end":"soir"}
+[2025-08-13 09:18:06] woocommerce_add_to_cart: cart_item_key=c4671fe40735cb7626060e2c9baa1d8a unique_hash=9ee0f90be5607c4ca6358e72671cf57c
+[2025-08-13 09:18:06] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 11:46:28] woocommerce_remove_cart_item: key=c4671fe40735cb7626060e2c9baa1d8a user=0
+[2025-08-13 11:46:28] woocommerce_remove_cart_item: rows deleted => 1
+[2025-08-13 11:46:28] woocommerce_cart_item_removed: key=c4671fe40735cb7626060e2c9baa1d8a user=0
+[2025-08-13 11:46:28] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-13 11:57:00] --------------------------------------------------------------------------
+[2025-08-13 11:57:00] Price day : 80
+[2025-08-13 11:57:00] Price half : 60
+[2025-08-13 11:57:00] Proce weekend : 250
+[2025-08-13 11:57:00] Montant total : 80
+[2025-08-13 11:57:00] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-13","end_date":"2025-08-13","time-start":"matin","time-end":"soir"}
+[2025-08-13 11:57:00] woocommerce_add_to_cart: cart_item_key=fb16a82c5e8a9c5dd3be8568d8592af4 unique_hash=816e9a1224885f270f56aeed7b813051
+[2025-08-13 11:57:00] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 12:01:56] --------------------------------------------------------------------------
+[2025-08-13 12:01:56] Price day : 80
+[2025-08-13 12:01:56] Price half : 60
+[2025-08-13 12:01:56] Proce weekend : 250
+[2025-08-13 12:01:56] Montant total : 80
+[2025-08-13 12:01:56] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-13","end_date":"2025-08-13","time-start":"matin","time-end":"soir"}
+[2025-08-13 12:01:56] woocommerce_add_to_cart: cart_item_key=45b2b6ba0e53eb3dba8032599122809f unique_hash=086482e7e8a3a2186fea25c884f10b8b
+[2025-08-13 12:01:56] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 12:02:44] --------------------------------------------------------------------------
+[2025-08-13 12:02:44] Price day : 80
+[2025-08-13 12:02:44] Price half : 60
+[2025-08-13 12:02:44] Proce weekend : 250
+[2025-08-13 12:02:44] Montant total : 140
+[2025-08-13 12:02:44] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-27","end_date":"2025-08-28","time-start":"matin","time-end":"midi"}
+[2025-08-13 12:02:44] woocommerce_add_to_cart: cart_item_key=682752ff4913f925ae9dd5e0548419f2 unique_hash=3561833d2e0906036c197722eb9c4e6e
+[2025-08-13 12:02:44] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 12:03:03] --------------------------------------------------------------------------
+[2025-08-13 12:03:03] Price day : 80
+[2025-08-13 12:03:03] Price half : 60
+[2025-08-13 12:03:03] Proce weekend : 250
+[2025-08-13 12:03:03] Montant total : 80
+[2025-08-13 12:03:03] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"2","start_date":"2025-08-14","end_date":"2025-08-14","time-start":"matin","time-end":"soir"}
+[2025-08-13 12:03:03] woocommerce_add_to_cart: cart_item_key=0095aae5b7f40472c8cfc18ec9b422e3 unique_hash=d4addeb432ee751dd65b7ff79249d79e
+[2025-08-13 12:03:03] woocommerce_add_to_cart: rows updated => 1
+[2025-08-13 12:04:56] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-13 12:04:56] UPDATE réussie : 1 ligne(s) mise(s) à jour
+[2025-08-13 12:05:35] woocommerce_remove_cart_item: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-13 12:05:35] woocommerce_remove_cart_item: rows deleted => 0
+[2025-08-13 12:05:35] woocommerce_cart_item_removed: key=f0a998e58876cb6a433734b7c611e047 user=1
+[2025-08-13 12:05:35] woocommerce_cart_item_removed: rows deleted => 0
+[2025-08-13 12:05:35] woocommerce_cart_loaded_from_session: removed keys => ["f0a998e58876cb6a433734b7c611e047"]
+[2025-08-14 07:26:02] --------------------------------------------------------------------------
+[2025-08-14 07:26:02] Price day : 80
+[2025-08-14 07:26:02] Price half : 60
+[2025-08-14 07:26:02] Proce weekend : 250
+[2025-08-14 07:26:02] Montant total : 330
+[2025-08-14 07:26:03] $_POST = {"action":"woocommerce_add_to_cart","product_id":"164","quantity":"1","unit_id":"1","start_date":"2025-08-16","end_date":"2025-08-18","time-start":"matin","time-end":"soir"}
+[2025-08-14 07:26:03] woocommerce_add_to_cart: cart_item_key=68d0f08481bdbc661926cee7966935ae unique_hash=5ad6ee2fc134605b896d02c5d1c1cb78
+[2025-08-14 07:26:03] woocommerce_add_to_cart: rows updated => 1

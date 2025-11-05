@@ -1,0 +1,73 @@
+/* ---- Calendar ----*/
+.fc-day-today{
+	background-color: #F5F5F5 !important;
+	border: 2px solid #ccc !important;
+}
+
+.fc-scroller {
+    overflow-y: hidden !important;
+}
+
+#calendar{
+	width: 100%
+}
+
+.dsi-reservation-block {
+    border: 1px solid gray;
+    border-radius: 1.5rem;
+    padding: 1rem;
+	margin-bottom: 2rem;
+    box-shadow: 7px 7px 5px #ccc;
+    width: 100%;
+}
+
+.fc-day-past {
+    background-color: whitesmoke;
+}
+
+/* ---- Calendar demi journée ---- */
+
+.demi{
+  position: relative;
+  background-color: white;
+}
+
+.demi:after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+
+.matin:after{
+  bottom: 0;
+}
+
+.aprem:after{
+  top: 0;
+}
+
+.dash-maintenance{
+    margin-top: 0.1em;
+}
+
+/* ---- Pagination ---- */
+.tablenav{
+    display: flex;
+    justify-content: space-between;
+    margin-block: 1rem;
+}
+
+.tab-nav-bottom{
+    margin-block: 1rem !important;
+    float: right;
+}
+
+span.displaying-num, .tablenav-paging-text {
+    margin-right: 6px !important;
+}
+
+.tablenav-pages-navspan, .next-page{
+    margin-right: 3px !important;
+}

@@ -1,0 +1,271 @@
+.fc-daygrid-day-frame.fc-scrollgrid-sync-inner {
+  height: 30px;
+}
+.fc-scroller.fc-scroller-liquid-absolute {
+  overflow-y: hidden !important;
+}
+
+.fc-day-today{
+	background-color: white !important;
+	border: 2px solid #ccc !important;
+}
+
+.box-input label{
+	display: block;
+}
+
+.select-date {
+    width: 180px !important;
+}
+
+.calendar-row {
+	display: flex;
+}
+
+.dsi-reservation-form{
+	width: 33%;
+	padding-right: 1rem;
+  margin-bottom:10px;
+  width: 100%;
+}
+
+.dsi-calendar{
+	width: 50%;
+  margin-bottom:10px;
+}
+
+.box-resa{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.dsi-reservation-block {
+  border: 1px solid gray;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  box-shadow: 7px 7px 5px #ccc;
+}
+
+.btn-view-resa{
+  font-size: 16px;
+  line-height: 1.2 !important;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: 0em;
+  border-radius: 0.3em;
+  padding: 1.0em 2.0em;
+  /*background: #80b5ea;*/
+  background: #dd1c1a;
+  border-color: transparent;
+  color: #fff !important;
+  margin-left: 1.5rem;
+}
+
+.btn-view-resa:hover{
+  background-color: #c21917;
+}
+
+.box-input {
+  margin-bottom: 10px;
+  align-items: center;
+  width: 45%;
+}
+
+.btn-resa{
+ 	/*height: var(--inputs-height,2em) !important;*/
+ 	align-self: flex-end;
+	margin-bottom: 0.5rem;
+  margin-top: 1rem;
+  background-color: #00857f !important;
+}
+
+.btn-resa:hover{
+  background-color: #006961 !important;
+}
+
+.calendar-head{
+  display: flex;
+  justify-content: space-between;
+}
+.calendar-head h4{
+  flex: 4;
+}
+.calendar-head button{
+  flex: 1;
+  margin-bottom: 10px;
+}
+
+.calendar-col{
+  width: 50%;
+}
+
+.fc-day-past {
+  background-color: whitesmoke;
+}
+
+.radio-btn {
+  margin-top: 15px;
+  display: flex;
+  /*justify-content: space-around;*/
+}
+
+.radio-btn input[type="radio"] {
+  display: none;
+}
+
+.radio-btn label {
+  /*margin-right: 30px;*/
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background: #f9f9f9;
+  transition: all 0.2s ease;
+}
+.radio-btn input[type="radio"] + label {
+  margin-right: 15px;
+  text-wrap: nowrap;
+}
+.radio-btn input[type="radio"]:checked + label {
+  background: #33c1ba;
+  color: white;
+  /*border-color: #2563eb;*/
+  margin-right: 15px;
+  text-wrap: nowrap;
+}
+
+/* ---- demi journée ---- */
+.demi{
+  position: relative;
+  background-color: white;
+}
+
+.demi:after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+
+.matin:after{
+  bottom: 0;
+}
+
+.aprem:after{
+  top: 0;
+}
+
+/* ---- Modale ---- */
+.dsi-reservation-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: calc(50% - 750px);
+  top: calc(50% - 375px);
+  width: 1500px;
+  height: 750px;
+  overflow: auto;
+  background-color: white;
+  border: solid 1px #ccc;
+  box-shadow: 7px 7px 5px #ccc;
+
+}
+
+.dsi-reservation-modal .modal-content {
+    background-color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.dsi-reservation-modal .modal-content h3 {
+    margin-top: 0;
+}
+
+.dsi-close-modal {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: #888;
+    float:right;
+    
+}
+
+.dsi-close-modal:hover {
+    color: #000;
+}
+
+.dsi-reservation-modal table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.dsi-reservation-modal th, .dsi-reservation-modal td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.dsi-reservation-modal-content {
+    background-color: white;
+    color: black;
+    padding: 3rem;
+}
+
+.button.button.cancel-reservation{
+  background-color: #f3d782;
+}
+
+.button.button.cancel-reservation:hover{
+  background-color: #ffca2c !important;
+}
+
+/* ---- Modale click sur le calendrier ---- */
+.dsi-click-calendar-modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.dsi-click-calendar-modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 700px;
+  position: relative;
+}
+
+.dsi-close-calendar-modal {
+  color: #aaa;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.dsi-close-calendar-modal:hover,
+.dsi-close-calendar-modal:focus {
+  color: #000;
+}

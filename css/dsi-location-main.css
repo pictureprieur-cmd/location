@@ -1,0 +1,187 @@
+/* Style de base pour la boîte de message */
+.notice {
+    padding: 0.75rem 1rem;
+    margin-top: 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 0.375rem;
+    font-size: 1rem;
+}
+
+/* Succès (vert) */
+.notice-success {
+    background-color: #d1e7dd;
+    color: #0f5132;
+    border-color: #badbcc;
+}
+
+/* Erreur (rouge) */
+.notice-error {
+    background-color: #f8d7da;
+    color: #842029;
+    border-color: #f5c2c7;
+}
+
+/* Information (bleu clair) */
+.notice-info {
+    background-color: #cff4fc;
+    color: #055160;
+    border-color: #b6effb;
+}
+
+/* Avertissement (jaune) */
+.notice-warning {
+    background-color: #fff3cd;
+    color: #664d03;
+    border-color: #ffecb5;
+}
+
+.message{
+	margin-bottom: 0.6rem;
+}
+
+.hidden{
+    display: none;
+}
+
+
+/*----------------------- Single-product ------------------------------*/
+.cart, .product_meta{
+    display: none !important;
+}
+
+#dsi-tarifs-title{
+    color: #00857f;
+}
+
+#dsi-tarifs {
+    margin-bottom: 3rem;
+}
+/*
+#dsi-tarifs table{
+    width: 50%;
+}
+*/
+#dsi-tarifs table tr td{
+    border: none;
+    /*padding: 0;*/
+    text-align: center;
+}
+
+#dsi-tarifs p{
+  margin: 0;
+  color: #33c1ba;
+}
+
+#dsi-tarifs table tr:first-child > td {
+    color: #33c1ba;
+}
+#dsi-tarifs table tr:nth-child(2) > td {
+    color: #dd1c1a;
+    font-weight: bold;
+}
+
+.dsi-tarif-info td{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.dsi-tarifs-headers td, .dsi-tarifs-prices td{
+    width: 50%;
+}
+
+  div#dsi-unit-calendars {
+    width: 100%;
+}
+/*-------*/
+.dsi-tarifs-table {
+  /* Shrink-to-fit */
+  display: table-cell;         /* width: auto, s’adapte au contenu */
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+.dsi-tarifs-table td {
+  white-space: nowrap;           /* pas de retour à la ligne */
+  padding: .1rem 2rem;
+}
+
+
+.dsi-tarifs-info{
+    margin-top: 2rem;
+}
+
+
+
+
+
+
+/*----------------- Catégorie page ------------------------------*/
+
+.dsi-tarifs-grid{
+    background-color: rgba(0, 133, 127, 0.85);
+    color: white;
+}
+
+.dsi-tarifs-grid tr td{
+    border: none;
+    padding-inline: 0.8rem;
+}
+
+.dsi-tarifs-grid tr:nth-child(2) > td{
+    color: #33c1ba;
+}
+
+.dsi-tarifs-grid tr:nth-child(2) > td,
+.dsi-tarifs-grid tr:nth-child(3) > td{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------- Modale ---------------------------------------*/
+.dsi-modal {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  display: none;
+  z-index: 1000;
+}
+
+.dsi-modal-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+.dsi-modal-content {
+  position: relative;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  max-width: 400px;
+  margin: auto;
+  z-index: 1001;
+}
+
+.dsi-modal-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.wc-block-components-quantity-selector{
+  display: none !important;
+}
